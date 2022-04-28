@@ -19,7 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Desktop view
 ![Desktop-view](https://user-images.githubusercontent.com/82644598/165824931-952cc572-36e6-41de-a9b9-7c34969249b4.png)
 
-![](./images/Mobile-view.jpg)
+-Mobile view
+
+
+![Mobile-view](https://user-images.githubusercontent.com/82644598/165825271-0b7a3ae5-750e-4360-9391-84f309b044ee.jpg)
+
 
 ### Links
 
